@@ -1,0 +1,13 @@
+name: "Plugin: Custom Banner Images"
+description: "Display custom banner images in the Stash app UI."
+version: 0.2.1
+ui:
+  css:
+    - custom-banner-image.css
+  javascript:
+    - custom-banner-image.js
+settings:
+  id:
+    displayName: Banner Image Gallery ID
+    description: The ID for the entity containing the images to be retrieved (gallery).
+    type: NUMBER
