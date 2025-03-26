@@ -2,7 +2,7 @@
   name: "Custom Banner Images"
   metadata:
     description: "Plugin to display custom images pulled from your collection from galleries in the performers banner."
-  version: 1.1
+  version: 1.1.1
   date: 2025-03-26 19:26:16
   path: dist/plugin.zip
-  sha256: 798be83c974105dbcc9938da59a1134bd9413526f8501547fc546c2ad0e0a1c7
+  sha256: 9d394aa7979059cf642d6a37ff2c268dec39106fb6bbeb5ac4a7733c85876488
