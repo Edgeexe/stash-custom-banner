@@ -1,6 +1,6 @@
-name: "Plugin: Custom Banner Images"
+name: "Custom Banner Images"
 description: "Display custom banner images in the Stash app UI."
-version: 1.0.0
+version: 1.0.1
 ui:
   css:
     - custom-banner-image.css

@@ -49,7 +49,7 @@ const onPageNavigation = async () => {
 const setBackground = (img) => {
     const backgroundElement = document.querySelector('.background-image');
     if (backgroundElement) {
-        backgroundElement.currentSrc = img;
+        backgroundElement.src = img;
     }
 };
 
