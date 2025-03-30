@@ -51,6 +51,7 @@ const setBackground = (img) => {
     if (backgroundElement) {
         backgroundElement.src = img;
         backgroundElement.style.filter = 'none';
+        backgroundElement.style["object-position"] = "70% 30%";
     }
 };
 
